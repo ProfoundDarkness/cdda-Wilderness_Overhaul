@@ -1,0 +1,15 @@
+[
+
+{
+    "type": "scenario",
+    "ident": "wilderness",
+    "override": true,
+    "name": "Wilderness",
+    "points" : 0,
+    "description": "You find yourself amongst trees.  The screaming and the moaning is fainter this far from civilization, but you'd better know what you're doing out here.",
+    "start_name": "Forest",
+    "extend" : { "professions": ["jr_naturalist"] },
+    "allowed_locs" : ["forest"]
+}
+
+]
