@@ -11,4 +11,4 @@ Most of the work I did was around 2016-08-26, and it worked well, I've only done
 
 Not everything works, as I find things broken I deal with them.
 
-NOTE that tree cutting has been split off into a seperate mod and repository for now since that required additional code to support.
+NOTE that tree cutting has been split off into a seperate mod and repository for now since that required additional code to support.  See https://github.com/ProfoundDarkness/Cataclysm-DDA/tree/Tree_Harvesting for progress on that (you will need to be able to compile to try it).
